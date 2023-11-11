@@ -1,0 +1,21 @@
+## Tasks.spec.ts ## 
+
+//await page.locator('#newTask').fill('Uma nova tarefa!');
+//await page.locator('button[type=submit]').click();
+//await page.fill('#newTask', 'Uma nova tarefa!')
+//await page.fill('input[placeholder="Add a new Task"]', 'Uma nova tarefa!')
+//await page.click('button[type=submit]')
+//const buttonSubmitNewTask = page.locator('button[class*="ButtonNewTask"]')
+
+//await inputTaskName.fill(faker.lorem.text())
+//await inputTaskName.press('Enter')
+
+//const buttonSubmitNewTask = page.locator('//button[contains(text(), "Create")]')
+//await buttonSubmitNewTask.click()
+
+//const target = page.getByTestId('task-list').getByTestId('task-item').getByText(taskName)
+//await expect(target).toBeVisible();
+
+//const target = page.getByTestId('task-list').getByTestId('task-item')
+//const target = page.locator('css=.task-item p >> text=' + taskName)
+//await expect(target).toHaveText(taskName)

@@ -1,0 +1,22 @@
+{
+    "success": {
+        "name": "Ler um livro de Typescript",
+        "is_done": false
+    },
+    "duplicate": {
+        "name": "Ler um livro de Playwright",
+        "is_done": false
+    },
+    "required": {
+        "name": "",
+        "is_done": false
+    },
+    "update": {
+        "name": "Ler o segundo livro de Typescript",
+        "is_done": false
+    },
+    "delete": {
+        "name": "Aprender Python",
+        "is_done": false
+    }
+}
